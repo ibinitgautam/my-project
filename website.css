@@ -11,12 +11,13 @@
         color: white;
         padding: 6px;
     }
-    nav h3{
+    nav .heading{
         margin-top: 0;
         letter-spacing: 2px;
         text-align: center;
         font-size: 40px;
         font-family: 'Open Sans Condensed', sans-serif;
+        float: center;
     }
     nav li{
         display: inline;
@@ -73,15 +74,15 @@
         border-radius: 2px;
         width: 200px;
     }
-    /*.para2, .para3, .para4, .para5, .para6, .para7, .para8{
+    /*.para2, .para3, .para4, .para5, .para6, .para7{
         float: left;
     }*/
-    .para1, .para2, .para3, .para4, .para5, .para6, .para7, .para8{
+    .para1, .para2, .para3, .para4, .para5, .para6, .para7{
         color: black;
         font-size: 30px;
         font-family: 'Noto Sans JP', sans-serif;
     }
-    .para2, .para3, .para4, .para5, .para6, .para7, .para8{
+    .para2, .para3, .para4, .para5, .para6, .para7{
         margin-top: 20px;
         margin-left: 50px;
         margin-bottom: 30px;
